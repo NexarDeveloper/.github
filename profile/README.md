@@ -29,22 +29,19 @@ If you haven't already, you can sign up for a Nexar account on [our website](htt
 
 _Note: To use any of these examples yourself you will need to have a Nexar account. [Sign up here](https://portal.nexar.com/sign-up). Once you have an account, your first application will be setup for you and you can take the authorization credentials from there and use them in any of our applications. Please see our support articles on [applications](https://support.nexar.com/support/solutions/articles/101000436377-what-are-nexar-applications-) and [authorization](https://support.nexar.com/support/solutions/articles/101000471994-authorization) for more information._
 
-
-<h3><img src="static/Octopart-Logo_Gear-Blue.svg" alt="Octopart Gear Logo" height="16px" /> Supply information from Octopart</h3>
+<h3>
+    <img src="static/Octopart-Logo_Gear-Blue.svg" alt="Octopart Gear Logo" height="16px" />
+    Component Supply Data from Octopart
+</h3>
 
 We recommend that you start with the [nexar-first-supply-query](https://github.com/NexarDeveloper/nexar-first-supply-query) which shows you how to query the supply side of the API in a simple console app. There are scripts in Python, Javascript and C#.
 
 If you want to see a larger application using the supply API, please see our [supply web demo](https://web-supply-demo.nexar.com/), and it's [code on GitHub](https://github.com/NexarDeveloper/web-supply-demo-blazor).
 
 <h3>
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A365%20logo-vertical-white.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A365%20logo-vertical-black.svg">
-        <img alt="Altium 365 Logo" height="16px" src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A365%20logo-vertical-black.svg">
-    </picture>
-    Design information from Altium 365
+    <img src="static/A365_label.svg" alt="Altium 365 Logo" height="16px" />
+    Your Altium 365 Design Information
 </h3>
-
 
 We recommend that you start with the [nexar-first-design-query](https://github.com/NexarDeveloper/nexar-first-design-query) which shows you how to query the design side of the API in a simple console app. This example has scripts in Python and Javascript.
 
