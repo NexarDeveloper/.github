@@ -11,17 +11,17 @@ If you haven't already, you can sign up for a Nexar account on [our website](htt
 
 <div align="center">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-DkBG.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-LtBg.svg">
-        <img alt="Nexar Logo" height="40px" src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-LtBg.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NexarDeveloper/.github/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-DkBG.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/NexarDeveloper/.github/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-LtBg.svg">
+        <img alt="Nexar Logo" height="40px" src="https://github.com/NexarDeveloper/.github/blob/main/profile/static/Nexar-Logo-Lockup-Horizontal-4C-LtBg.svg">
     </picture>
     <picture>
-        <img alt="Octopart Logo" height="40px" src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A20-Altium-Logo-Octopart.svg">
+        <img alt="Octopart Logo" height="40px" src="https://github.com/NexarDeveloper/.github/blob/main/profile/static/A20-Altium-Logo-Octopart.svg">
     </picture>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Lt.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Dk.svg">
-        <img alt="Altium 365 Logo" height="40px" src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Dk.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/NexarDeveloper/.github/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Lt.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://github.com/NexarDeveloper/.github/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Dk.svg">
+        <img alt="Altium 365 Logo" height="40px" src="https://github.com/NexarDeveloper/.github/blob/main/profile/static/A20-Altium-Logo_A365-Horiz-Dk.svg">
     </picture>
 </div>
 
@@ -30,7 +30,7 @@ If you haven't already, you can sign up for a Nexar account on [our website](htt
 _Note: To use any of these examples yourself you will need to have a Nexar account. [Sign up here](https://portal.nexar.com/sign-up). Once you have an account, your first application will be setup for you and you can take the authorization credentials from there and use them in any of our applications. Please see our support articles on [applications](https://support.nexar.com/support/solutions/articles/101000436377-what-are-nexar-applications-) and [authorization](https://support.nexar.com/support/solutions/articles/101000471994-authorization) for more information._
 
 <h3>
-    <img src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/Octopart-Logo_Gear-Blue.svg" alt="Octopart Gear Logo" height="16px" />
+    <img src="https://github.com/NexarDeveloper/.github/blob/main/profile/static/Octopart-Logo_Gear-Blue.svg" alt="Octopart Gear Logo" height="16px" />
     Component Supply Data from Octopart
 </h3>
 
@@ -39,7 +39,7 @@ We recommend that you start with the [nexar-first-supply-query](https://github.c
 If you want to see a larger application using the supply API, please see our [supply web demo](https://web-supply-demo.nexar.com/), and it's [code on GitHub](https://github.com/NexarDeveloper/web-supply-demo-blazor).
 
 <h3>
-    <img src="https://github.com/NexarDeveloper/.github-private/blob/main/profile/static/A365_label.svg" alt="Altium 365 Logo" height="16px" />
+    <img src="https://github.com/NexarDeveloper/.github/blob/main/profile/static/A365_label.svg" alt="Altium 365 Logo" height="16px" />
     Your Altium 365 Design Information
 </h3>
 
